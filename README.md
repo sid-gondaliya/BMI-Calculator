@@ -1,6 +1,6 @@
 # BMI Calculator
 
-A new Flutter application.
+A new Flutter application with beautiful UI interface.
 It uses basic math function, also numberpicker and font_awesome_flutter(for fontawesome icons) plug-in.
 
 ## App Preview
